@@ -18,7 +18,7 @@ Cette API permet de transcrire un fichier audio (.wav) en langue Fongbé en text
 1. Clonez ce dépôt :
    ```bash
    git clone https://github.com/Martial2023/Fon-Trascription-API.git
-   cd API_Docker
+   cd app
    ```
 
 2. Installez les dépendances :
