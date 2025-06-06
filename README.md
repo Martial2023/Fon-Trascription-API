@@ -10,14 +10,14 @@ Cette API permet de transcrire un fichier audio (.wav) en langue Fongbé en text
 
 ## Prérequis
 
-- Python 3.8 ou supérieur
+- Python 3.12 ou supérieur
 - Les dépendances listées dans `requirements.txt`
 
 ## Installation
 
 1. Clonez ce dépôt :
    ```bash
-   git clone <URL_DU_DEPOT>
+   git clone https://github.com/Martial2023/Fon-Trascription-API.git
    cd API_Docker
    ```
 
@@ -87,6 +87,3 @@ Les contributions sont les bienvenues ! Veuillez soumettre une pull request ou o
 ## Licence
 
 Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus d'informations.
-```
-
-Souhaitez-vous que j'ajoute ou modifie quelque chose ?
